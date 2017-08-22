@@ -1,1 +1,1 @@
-# fundamentos
+# Fundamentos de diseño interactivo
